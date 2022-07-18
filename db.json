@@ -1,0 +1,60 @@
+{
+  "songs": [
+    {
+      "name": "Goliath",
+      "image": "https://i.scdn.co/image/ab67616d00001e02272fceec10c12dbda980c10e",
+      "id": 1
+    },
+    {
+      "name": "Roulette Dares (The Haunt Of)",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f32a4535c09f7cae822bd695",
+      "id": 2
+    },
+    {
+      "name": "Eriatarka",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f32a4535c09f7cae822bd695",
+      "id": 3
+    },
+    {
+      "name": "The Pot",
+      "image": "https://i.scdn.co/image/ab67616d00001e02781369aabc39c792cc55604f",
+      "id": 4
+    },
+    {
+      "name": "Forty Six & 2",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dce45359981d62e087a29e6f",
+      "id": 5
+    },
+    {
+      "name": "Stinkfist",
+      "image": "https://i.scdn.co/image/ab67616d00001e02dce45359981d62e087a29e6f",
+      "id": 6
+    },
+    {
+      "name": "Sober",
+      "image": "https://i.scdn.co/image/ab67616d00001e0282298636c94b8167c4793db2",
+      "id": 7
+    }
+  ],
+  "albums": [
+    {
+      "name": "Deloused in the Comatorium",
+      "image": "https://i.scdn.co/image/ab67616d00001e02f32a4535c09f7cae822bd695",
+      "id": 1
+    }
+  ],
+  "artists": [
+    {
+      "name": "Coheed and Cambria",
+      "image": "https://i.scdn.co/image/ab6761610000e5ebe63ceef20dce0ac6522c4011",
+      "id": 2
+    }
+  ],
+  "playlists": [
+    {
+      "name": "Young Kurt",
+      "image": "https://i.kym-cdn.com/photos/images/newsfeed/001/513/511/b18.png",
+      "id": 1
+    }
+  ]
+}
